@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {}
+    "D:\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {}
   },
   "projects": {
-    "D:\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
+    "D:\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+        "projectUniqueName": "D:\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
         "projectName": "ToDoApp",
-        "projectPath": "D:\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+        "projectPath": "D:\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
         "packagesPath": "C:\\Users\\Molni\\.nuget\\packages\\",
-        "outputPath": "D:\\ToDoApp\\ToDoApp\\obj\\",
+        "outputPath": "D:\\ToDoApp\\ToDoApp\\ToDoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Molni\\AppData\\Roaming\\NuGet\\NuGet.Config",
